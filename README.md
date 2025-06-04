@@ -28,7 +28,8 @@ A user-friendly weather application built with Spring Boot and Thymeleaf that fe
 
 - An IDE (e.g., IntelliJ IDEA, Eclipse)
 
-- OpenWeatherMap API Key (Sign up here)
+- OpenWeatherMap API Key [Sign up here](https://openweathermap.org/api)
+
 
 ## Steps
 ## 1.Clone the Repository:
