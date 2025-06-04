@@ -35,6 +35,7 @@ A user-friendly weather application built with Spring Boot and Thymeleaf that fe
 ## 1.Clone the Repository:
 
 git clone https://github.com/ManindharSekar/weather-api-springboot.git
+
 cd weather-app
 ## 2.Configure the API Key:
 
